@@ -1,0 +1,20 @@
+﻿ID;Hora de inicio;Hora de finalización;Correo electrónico;Nombre;Hora de la última modificación;Edad;"¿Qué nivel educativo posee? 
+";"¿Posee experiencia en el uso de Smartwatches?
+
+";"¿Posee experiencia en pruebas de usabilidad por heurísticas?
+";¿La aplicación te informa claramente y a tiempo sobre lo que está pasando (por ejemplo, si está cargando datos o grabando tu ejercicio)?;¿El lenguaje, los iconos y los conceptos utilizados te resultaron familiares y fáciles de entender, sin usar términos técnicos innecesarios?;¿Pudiste deshacer acciones, retroceder o salir de una pantalla fácilmente sin tener que pasar por procesos largos?;¿La interfaz es uniforme? (Es decir, ¿los botones y las palabras significan lo mismo en todas las pantallas de la app?);¿El diseño de la aplicación ayuda a evitar que cometas errores accidentales antes de que ocurran?;¿Las opciones y botones están siempre visibles para que no tengas que memorizar pasos o información de pantallas anteriores?;¿Existen atajos o formas rápidas de realizar tareas frecuentes para usuarios que ya conocen la aplicación?;¿La pantalla muestra solo la información necesaria, o hay elementos irrelevantes que distraen o saturan la vista?;"¿Cúal ha sido tu percepción de facilidad de uso de las reglas aplicadas?
+
+"
+2;5/3/26 18:05:35;5/3/26 18:09:03;anonymous;;;19;Diplomado en curso;No;No;1;1;1;2;2;1;1;2;Me parecio muy práctico
+3;5/3/26 19:16:35;5/3/26 19:18:53;anonymous;;;22;Diplomado en curso;Sí;Sí;1;1;1;2;2;1;1;1;Facil, intuitivo
+4;5/3/26 21:00:29;5/3/26 21:02:09;anonymous;;;19;Diplomado en curso;Sí;No;4;4;4;3;4;2;4;4;Muy buena. no fue complicado para nada
+5;5/3/26 21:39:37;5/3/26 21:43:11;anonymous;;;20;Bachillerato en curso ;No;No;4;3;3;4;2;3;3;4;Complicado
+6;5/3/26 20:33:35;5/3/26 21:51:21;anonymous;;;18;Diplomado en curso;No;No;1;1;1;1;2;1;1;1;La facilidad de uso
+7;5/4/26 7:33:35;5/4/26 7:36:53;anonymous;;;20;Diplomado en curso;No;No;1;1;2;3;0;3;3;2;Se entiende
+8;5/4/26 8:06:59;5/4/26 8:08:59;anonymous;;;26;Bachillerato completo ;Sí;Sí;1;1;1;1;2;1;1;1;Son claras y directas
+9;5/4/26 8:35:07;5/4/26 8:37:13;anonymous;;;22;Licenciatura en curso ;Sí;Sí;4;3;1;0;1;0;2;4;Sencillo, las reglas no poseen dificultad para interpretarse
+10;5/4/26 8:34:45;5/4/26 8:44:06;anonymous;;;22;Bachillerato completo ;Sí;No;4;4;4;4;4;4;4;4;La aplicación es sumamente intuitiva y facil de manejar. Me permite navegar y realizar tareas sin confusión alguna.
+11;5/4/26 8:46:14;5/4/26 8:46:37;anonymous;;;23;Diplomado en curso;Sí;Sí;4;4;4;4;4;4;4;4;Me parece muy fácil 
+12;5/4/26 9:25:37;5/4/26 9:27:26;anonymous;;;20;Diplomado en curso;Sí;No;0;0;0;0;1;2;1;1;En general, las reglas ayudan a que el sistema sea fácil de usar y entender, aunque algunos detalles, como regresar fácilmente o ver siempre las opciones, podrían mejorar.
+13;5/4/26 13:22:39;5/4/26 13:27:16;anonymous;;;21;Bachillerato en curso ;Sí;Sí;3;4;4;3;4;4;4;3;Considero que son de bastante interés por la facilidad de uso, se les puede sacar mucho provecho 
+14;5/4/26 17:11:58;5/4/26 17:14:24;anonymous;;;18;Bachillerato completo ;No;No;1;1;2;3;2;0;1;4;Muy accesible
